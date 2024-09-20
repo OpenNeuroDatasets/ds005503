@@ -7,7 +7,7 @@ Here we provide the stimuli and corresponding raw fMRI responses from the paper:
 
 The stimuli consist of controlling images that align or disentangle either univariate or multivariate responses of areas V1, V2, V3 and V4 for human fMRI responses. We found these images by applying univariate/multivariate relational neural control (RNC) on *in-silico* (i.e., model generated) fMRI responses. We then validated the V1 vs. V4 controlling images effect on *in vivo* (i.e., experimentally collected) fMRI responses of six new, independent subjects. Here we provide the *in vivo* fMRI responses for this validation.
 
-Each subject underwent two fMRI data collection sessions. The first session consisted of three runs of population receptive field experiment (which we used to delineate areas V1 and V4 in each subject), and 10 runs where we presented the univariate RNC controlling images. The second session consisted of 12 runs where we presented the multivariate RNC controlling images. Anatomical scans and field maps were collected at the beginning of both sessions.
+Each subject underwent two fMRI data collection sessions. The first session consisted of three runs of population receptive field experiment (which we used to delineate areas V1 and V4 in each subject), and 10 runs where we presented the univariate RNC controlling images. The second session consisted of 12 runs where we presented the multivariate RNC controlling images. Anatomical scans and field maps were collected at the beginning of both sessions. 
 
 The *stimuli/*  folder contains the univariate and multivariante RNC controlling images, as well as the catch images, presented during data collection. Note that prior to data collection we normalized images luminance to the luminance of a uniform gray screen with an RGB value of [127 127 127] (i.e., *stimuli/background.png*) using [this code][normalize_luminance].
 
@@ -39,6 +39,5 @@ If you use any of our data or code, please cite the paper:
 
 [paper_link]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 [normalize_luminance]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation/01_experimental_paradigm/normalize_images_luminance
-[data_collection_code]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation/01_experimental_paradigm
 [github]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation
 [colab]: https://drive.google.com/drive/folders/1ZTzbeZ1tNtBu2P6fgjbRY8-1KuY-0Kkr?usp=drive_link
