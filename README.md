@@ -1,9 +1,9 @@
 # In silico discovery of representational relationships across visual cortex
 
 
-## 🔍 Overview
+## Overview
 
-Here we provide the stimuli and corresponding raw fMRI responses from the paper: *[In silico discovery of representational relationships across visual cortex][paper_link]* (Alessandro T. Gifford, Maya A. Jastrzębowska, Johannes J.D. Singer, Radoslaw M. Cichy).
+Here we provide the stimuli and corresponding raw fMRI responses from the paper: *[In silico discovery of representational relationships across visual cortex][paper_doi]* (Alessandro T. Gifford, Maya A. Jastrzębowska, Johannes J.D. Singer, Radoslaw M. Cichy).
 
 The stimuli consist of controlling images that align or disentangle either univariate or multivariate responses of areas V1, V2, V3 and V4 for human fMRI responses. We found these images by applying univariate/multivariate relational neural control (RNC) on *in-silico* (i.e., model generated) fMRI responses. We then validated the V1 vs. V4 controlling images effect on *in vivo* (i.e., experimentally collected) fMRI responses of six new, independent subjects. Here we provide the *in vivo* fMRI responses for this validation.
 
@@ -15,7 +15,7 @@ The file *used_mri_sequences.pdf* contains technical details regarding the used 
 
 
 
-## 💻 Code
+## Code
 
 The code we used for collecting, preprocessing and analyzing the fMRI data is available on [GitHub][github].
 
@@ -23,21 +23,21 @@ If you wish to familiarize with RNC, you can use our [interactive Colab tutorial
 
 
 
-## 📧 Contact
+## Contact
 
 For any question regarding the project data, code, or RNC in general, you can get in touch with Ale (alessandro.gifford@gmail.com).
 
 
 
-## 📜 Citation
+## Citation
 
 If you use any of our data or code, please cite the paper:
 
-> * *Gifford AT, Jastrzębowska M, Singer JJD, Cichy RM. 2024. In-silico discovery of representational relationships across visual cortex. _bioRxiv_, ???. DOI: [???][paper_link]*
+> * *Gifford AT, Jastrzębowska M, Singer JJD, Cichy RM. 2024. In-silico discovery of representational relationships across visual cortex. _bioRxiv_, ???. DOI: [???][paper_doi]*
 
 
 
-[paper_link]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[paper_doi]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 [normalize_luminance]: https://github.com/gifale95/RNC/06_in_vivo_validation/01_experimental_paradigm/normalize_images_luminance
 [data_collection_code]: https://github.com/gifale95/RNC/06_in_vivo_validation/01_experimental_paradigm
 [github]: https://github.com/gifale95/RNC/06_in_vivo_validation
