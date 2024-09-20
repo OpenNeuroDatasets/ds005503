@@ -38,7 +38,7 @@ If you use any of our data or code, please cite the paper:
 
 
 [paper_link]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-[normalize_luminance]: https://github.com/gifale95/RNC/06_in_vivo_validation/01_experimental_paradigm/normalize_images_luminance
-[data_collection_code]: https://github.com/gifale95/RNC/06_in_vivo_validation/01_experimental_paradigm
-[github]: https://github.com/gifale95/RNC/06_in_vivo_validation
+[normalize_luminance]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation/01_experimental_paradigm/normalize_images_luminance
+[data_collection_code]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation/01_experimental_paradigm
+[github]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation
 [colab]: https://drive.google.com/drive/folders/1ZTzbeZ1tNtBu2P6fgjbRY8-1KuY-0Kkr?usp=drive_link
