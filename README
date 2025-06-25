@@ -33,11 +33,11 @@ For any question regarding the project data, code, or RNC in general, you can ge
 
 If you use any of our data or code, please cite the paper:
 
-> * Gifford AT, Jastrzębowska M, Singer JJD, Cichy RM. 2024. In-silico discovery of representational relationships across visual cortex. _arXiv preprint_, arXiv:2411.10872. DOI: [https://arxiv.org/abs/2411.10872][paper_link]
+> * Gifford AT, Jastrzębowska M, Singer JJD, Cichy RM. 2025. In-silico discovery of representational relationships across visual cortex. _Nature Human Behavior_. DOI: [https://doi.org/10.1038/s41562-025-02252-z][paper_link]
 
 
 
-[paper_link]: https://arxiv.org/abs/2411.10872
+[paper_link]: https://doi.org/10.1038/s41562-025-02252-z
 [normalize_luminance]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation/01_experimental_paradigm/normalize_images_luminance
 [github]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation
 [colab]: https://drive.google.com/drive/folders/1ZTzbeZ1tNtBu2P6fgjbRY8-1KuY-0Kkr?usp=drive_link
